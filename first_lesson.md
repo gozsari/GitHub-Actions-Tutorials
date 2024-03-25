@@ -1,6 +1,4 @@
 
-**Introduction to GitHub Actions and Setting Up Your First Workflow**.
-
 ### Objective
 Understand the basics of GitHub Actions and create a simple workflow that executes when code is pushed to your repository.
 
