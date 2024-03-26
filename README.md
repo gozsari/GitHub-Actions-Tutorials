@@ -1,6 +1,5 @@
 # GitHub-Actions-Tutorials
- <img src="https://img.shields.io/badge/DevOps-Tools-blue">
- <img src="https://img.shields.io/badge/GitHub-Actions-green">
+ <img src="https://img.shields.io/badge/DevOps-Tools-blue"> <img src="https://img.shields.io/badge/GitHub-Actions-green">
 
 This repository contains a series of tutorials to help you learn GitHub Actions by example. Each tutorial covers a specific use case and provides step-by-step instructions to create a workflow that automates a particular task.
 The tutorials were created using the ChatGPT. The tutorials are as follows:
