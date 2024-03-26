@@ -1,4 +1,7 @@
 # GitHub-Actions-Tutorials
+ <img src="https://img.shields.io/badge/DevOps-Tools-blue">
+ <img src="https://img.shields.io/badge/GitHub-Actions-green">
+
 This repository contains a series of tutorials to help you learn GitHub Actions by example. Each tutorial covers a specific use case and provides step-by-step instructions to create a workflow that automates a particular task.
 The tutorials were created using the ChatGPT. The tutorials are as follows:
 
@@ -30,3 +33,5 @@ Using GitHub Actions provides several benefits, including:
 - **Scalability:** GitHub Actions scales with your project, allowing you to handle complex workflows and large codebases.
 
 By leveraging GitHub Actions, you can improve the efficiency, reliability, and quality of your software development process.
+
+
